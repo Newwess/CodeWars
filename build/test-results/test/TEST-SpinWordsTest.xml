@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SpinWordsTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-04-07T23:02:05" hostname="ProM1Newwess" time="0.026">
+  <properties/>
+  <testcase name="test1()" classname="SpinWordsTest" time="0.019"/>
+  <testcase name="test2()" classname="SpinWordsTest" time="0.001"/>
+  <testcase name="test3()" classname="SpinWordsTest" time="0.001"/>
+  <testcase name="test4()" classname="SpinWordsTest" time="0.0"/>
+  <testcase name="test5()" classname="SpinWordsTest" time="0.0"/>
+  <testcase name="test6()" classname="SpinWordsTest" time="0.0"/>
+  <testcase name="test7()" classname="SpinWordsTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
